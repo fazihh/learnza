@@ -1,0 +1,14 @@
+{
+  "components\\layout\\Layout.tsx -> @/util/useBootstrap": {
+    "id": "components\\layout\\Layout.tsx -> @/util/useBootstrap",
+    "files": [
+      "static/chunks/_app-pages-browser_util_useBootstrap_ts.js"
+    ]
+  },
+  "util\\useTextAnimation2.ts -> gsap/all": {
+    "id": "util\\useTextAnimation2.ts -> gsap/all",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_gsap_all_js.js"
+    ]
+  }
+}
